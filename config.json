@@ -1,0 +1,4 @@
+{
+  "target": "http://IP_For_APP:8080",
+  "port": 3000
+}
